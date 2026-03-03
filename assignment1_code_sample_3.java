@@ -72,4 +72,4 @@ public class VulnerableApp {
     }
 }
 
-// sigma boy s
+// sigma b
